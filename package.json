@@ -1,0 +1,26 @@
+{
+  "name": "brookekryan",
+  "version": "1.0.0",
+  "description": "Personal and academic website for Brooke Ryan.",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brookekelseyryan/brookekryan.git"
+  },
+  "keywords": [
+    "brookekryan",
+    "brooke",
+    "ryan",
+    "brookekelseyryan",
+    "portfolio",
+    "cv"
+  ],
+  "author": "Brooke Ryan",
+  "homepage": "https://brookekryan.com",
+  "dependencies": {
+    "bootstrap": "4.5.3"
+  },
+  "devDependencies": {
+    "startbootstrap-resume": "6.0.2"
+  }
+}
